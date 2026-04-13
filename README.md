@@ -26,9 +26,8 @@ I am a backend specialist passionate about building robust, scalable APIs and ef
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rezbd&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rezbd&show_icons=true&theme=dark&cache_seconds=1800" alt="GitHub Stats" />
+<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezbd&theme=dark" alt="GitHub Streak" />
 </p>
