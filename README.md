@@ -22,7 +22,7 @@ I am a backend specialist passionate about building robust, scalable APIs and ef
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/rezbd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="PUT_YOUR_TWITTER_URL_HERE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://x.com/rezbd"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
 </p>
 
 ### 📊 GitHub Stats
